@@ -1,0 +1,269 @@
+CRITICAL - 2024-03-02 10:04:34 --> Undefined variable $ModelSetting
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelSetting', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:04:40 --> Undefined variable $ModelSetting
+in APPPATH\Controllers\Home.php on line 10.
+ 1 APPPATH\Controllers\Home.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelSetting', 'APPPATH\\Controllers\\Home.php', 10)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:04:41 --> Undefined variable $ModelSetting
+in APPPATH\Controllers\Home.php on line 10.
+ 1 APPPATH\Controllers\Home.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelSetting', 'APPPATH\\Controllers\\Home.php', 10)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:04:47 --> Undefined variable $ModelSetting
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelSetting', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:07:26 --> Undefined variable $ModelSetting
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelSetting', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:07:27 --> Undefined variable $ModelSetting
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelSetting', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:07:56 --> Undefined variable $ModelSetting
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelSetting', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:09:06 --> Undefined variable $ModelSetting
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelSetting', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:11:33 --> Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Admin::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:11:34 --> Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Admin::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:12:33 --> Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Admin::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:12:35 --> Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Admin::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:12:35 --> Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Admin::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:12:35 --> Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Admin::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:12:35 --> Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Admin::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:12:36 --> Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Admin::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:12:36 --> Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Admin::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:12:55 --> Undefined variable $ModelSetting
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelSetting', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:12:56 --> Undefined variable $ModelSetting
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelSetting', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:12:57 --> Undefined variable $ModelSetting
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelSetting', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:13:09 --> Undefined variable $ModelWilayah
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelWilayah', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:13:41 --> Undefined variable $ModelWilayah
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelWilayah', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:13:42 --> Undefined variable $ModelWilayah
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelWilayah', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:13:42 --> Undefined variable $ModelWilayah
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelWilayah', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:13:43 --> Undefined variable $ModelWilayah
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelWilayah', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:13:43 --> Undefined variable $ModelWilayah
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelWilayah', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:14:36 --> Undefined variable $ModelWilayah
+in APPPATH\Controllers\Wilayah.php on line 115.
+ 1 APPPATH\Controllers\Wilayah.php(115): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelWilayah', 'APPPATH\\Controllers\\Wilayah.php', 115)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Wilayah->Edit('21')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wilayah))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:20:44 --> unlink(foto/WhatsApp Image 2024-02-06 at 11.39.33_ecfcc1b3_1.jpg): No such file or directory
+in APPPATH\Controllers\InfoToko.php on line 272.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/WhatsApp Image 2024-02-06 at 11.39.33_ecfcc1b3_1.jpg): No such file or directory', 'APPPATH\\Controllers\\InfoToko.php', 272)
+ 2 APPPATH\Controllers\InfoToko.php(272): unlink('foto/WhatsApp Image 2024-02-06 at 11.39.33_ecfcc1b3_1.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\InfoToko->Delete('16')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InfoToko))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:45:29 --> Call to undefined function nase_url()
+in APPPATH\Views\infotoko\v_detail.php on line 65.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('infotoko/v_detail', [], true)
+ 4 APPPATH\Views\v_template_back_end.php(208): view('infotoko/v_detail')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 8 APPPATH\Controllers\InfoToko.php(277): view('v_template_back_end', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\InfoToko->Detail('11')
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InfoToko))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 10:45:49 --> Call to undefined function nase_url()
+in APPPATH\Views\infotoko\v_detail.php on line 65.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('infotoko/v_detail', [], true)
+ 4 APPPATH\Views\v_template_back_end.php(208): view('infotoko/v_detail')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 8 APPPATH\Controllers\InfoToko.php(277): view('v_template_back_end', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\InfoToko->Detail('11')
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InfoToko))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 11:00:17 --> Undefined variable $value
+in APPPATH\Views\infotoko\v_detail.php on line 34.
+ 1 APPPATH\Views\infotoko\v_detail.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $value', 'APPPATH\\Views\\infotoko\\v_detail.php', 34)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\infotoko\\v_detail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('infotoko/v_detail', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(208): view('infotoko/v_detail')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\InfoToko.php(277): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\InfoToko->Detail('11')
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InfoToko))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 11:09:47 --> Undefined array key "geojson"
+in APPPATH\Views\infotoko\v_detail.php on line 85.
+ 1 APPPATH\Views\infotoko\v_detail.php(85): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "geojson"', 'APPPATH\\Views\\infotoko\\v_detail.php', 85)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\infotoko\\v_detail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('infotoko/v_detail', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(208): view('infotoko/v_detail')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\InfoToko.php(277): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\InfoToko->Detail('11')
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InfoToko))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 11:39:22 --> Creation of dynamic property App\Controllers\User::$ModelUser is deprecated
+in APPPATH\Controllers\User.php on line 11.
+ 1 APPPATH\Controllers\User.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\User::$ModelUser is deprecated', 'APPPATH\\Controllers\\User.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\User->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 23:55:04 --> Undefined variable $nama_file_foto
+in APPPATH\Controllers\User.php on line 70.
+ 1 APPPATH\Controllers\User.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_file_foto', 'APPPATH\\Controllers\\User.php', 70)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->InsertData()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

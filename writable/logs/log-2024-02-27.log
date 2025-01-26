@@ -1,0 +1,925 @@
+CRITICAL - 2024-02-27 00:11:26 --> syntax error, unexpected single-quoted string "__construct()"
+in APPPATH\Controllers\Admin.php on line 10.
+ 1 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Admin/Setting')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Admin/Setting')
+ 3 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Admin/Setting')
+ 4 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:11:42 --> syntax error, unexpected single-quoted string "__construct()"
+in APPPATH\Controllers\Admin.php on line 10.
+ 1 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Admin/Setting')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Admin/Setting')
+ 3 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Admin/Setting')
+ 4 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:11:43 --> syntax error, unexpected single-quoted string "__construct()"
+in APPPATH\Controllers\Admin.php on line 10.
+ 1 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Admin/Setting')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Admin/Setting')
+ 3 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Admin/Setting')
+ 4 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:11:43 --> syntax error, unexpected single-quoted string "__construct()"
+in APPPATH\Controllers\Admin.php on line 10.
+ 1 SYSTEMPATH\Router\Router.php(499): CodeIgniter\Router\AutoRouter->getRoute('Admin/Setting')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Admin/Setting')
+ 3 SYSTEMPATH\CodeIgniter.php(777): CodeIgniter\Router\Router->handle('Admin/Setting')
+ 4 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:14:02 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:14:03 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:14:03 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:14:04 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:14:04 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:14:04 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:14:04 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:14:05 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:14:05 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:14:05 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:14:05 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:14:05 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:14:06 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:15:06 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:15:06 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:15:07 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:15:07 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:15:07 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:13 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:13 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:13 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:14 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:14 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:14 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:14 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:14 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:15 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:16 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:16 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:16 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:16 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:16 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:17 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:17 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:27 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:27 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:27 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:28 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:28 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:28 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:28 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:28 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:29 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:29 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:29 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:29 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:29 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:29 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:21:30 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Admin.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:22:17 --> Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Admin::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:24:28 --> Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Admin::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 00:24:29 --> Creation of dynamic property App\Controllers\Admin::$ModelSetting is deprecated
+in APPPATH\Controllers\Admin.php on line 11.
+ 1 APPPATH\Controllers\Admin.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Admin::$ModelSetting is deprecated', 'APPPATH\\Controllers\\Admin.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Admin->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 01:10:44 --> Call to undefined function App\Controllers\redirectI()
+in APPPATH\Controllers\Admin.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->UpdateSetting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 01:10:49 --> Call to undefined function App\Controllers\redirectI()
+in APPPATH\Controllers\Admin.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->UpdateSetting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 01:11:14 --> Call to undefined function App\Controllers\redirectI()
+in APPPATH\Controllers\Admin.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->UpdateSetting()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 06:12:26 --> Cannot access offset of type string on string
+in APPPATH\Views\wilayah\v_index.php on line 28.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('wilayah/v_index', [], true)
+ 4 APPPATH\Views\v_template_back_end.php(209): view('wilayah/v_index')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 8 APPPATH\Controllers\Wilayah.php(21): view('v_template_back_end', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Wilayah->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wilayah))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 06:12:58 --> Undefined variable $Wilayah
+in APPPATH\Views\wilayah\v_index.php on line 25.
+ 1 APPPATH\Views\wilayah\v_index.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Wilayah', 'APPPATH\\Views\\wilayah\\v_index.php', 25)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\wilayah\\v_index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('wilayah/v_index', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(209): view('wilayah/v_index')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Wilayah.php(21): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Wilayah->index()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wilayah))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:20:04 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:21:30 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:21:31 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:21:32 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:21:32 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:25:39 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:25:40 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:25:40 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:25:40 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:25:40 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:25:40 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:25:41 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:25:41 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:25:41 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:25:42 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:25:42 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:25:42 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:25:42 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:25:43 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:25:43 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:42 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:44 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:44 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:44 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:44 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:45 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:45 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:45 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:45 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:45 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:46 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:46 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:47 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:47 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:47 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:47 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:47 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:48 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:48 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:48 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:49 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:49 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:49 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:49 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:50 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:50 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:28:50 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:05 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:11 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:12 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:12 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:12 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:12 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:12 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:12 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:13 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:13 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:13 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:13 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:14 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:14 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:14 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:38 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:39 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:39 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:39 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:39 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:40 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:40 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:40 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:40 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:31:41 --> Creation of dynamic property App\Controllers\Wilayah::$ModelWilayah is deprecated
+in APPPATH\Controllers\Wilayah.php on line 13.
+ 1 APPPATH\Controllers\Wilayah.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Wilayah::$ModelWilayah is deprecated', 'APPPATH\\Controllers\\Wilayah.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Wilayah->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 07:32:02 --> Undefined variable $web
+in APPPATH\Views\wilayah\v_index.php on line 65.
+ 1 APPPATH\Views\wilayah\v_index.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $web', 'APPPATH\\Views\\wilayah\\v_index.php', 65)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\wilayah\\v_index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('wilayah/v_index', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(208): view('wilayah/v_index')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Wilayah.php(25): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Wilayah->index()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wilayah))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 23:52:56 --> Call to undefined method App\Controllers\Wilayah::validasi()
+in APPPATH\Controllers\Wilayah.php on line 40.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Wilayah->InsertData()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wilayah))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-27 23:53:03 --> Call to undefined method App\Controllers\Wilayah::validasi()
+in APPPATH\Controllers\Wilayah.php on line 40.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Wilayah->InsertData()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wilayah))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

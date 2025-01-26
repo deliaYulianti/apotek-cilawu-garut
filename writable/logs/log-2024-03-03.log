@@ -1,0 +1,236 @@
+CRITICAL - 2024-03-03 00:04:49 --> Undefined array key "id_user"
+in APPPATH\Models\ModelUser.php on line 33.
+ 1 APPPATH\Models\ModelUser.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_user"', 'APPPATH\\Models\\ModelUser.php', 33)
+ 2 APPPATH\Controllers\User.php(97): App\Models\ModelUser->DeleteData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('3')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:10:55 --> unlink(foto/indomaret banyuresmi.jpg): No such file or directory
+in APPPATH\Controllers\User.php on line 92.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/indomaret banyuresmi.jpg): No such file or directory', 'APPPATH\\Controllers\\User.php', 92)
+ 2 APPPATH\Controllers\User.php(92): unlink('foto/indomaret banyuresmi.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('3')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:10:55 --> unlink(foto/indomaret banyuresmi.jpg): No such file or directory
+in APPPATH\Controllers\User.php on line 92.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/indomaret banyuresmi.jpg): No such file or directory', 'APPPATH\\Controllers\\User.php', 92)
+ 2 APPPATH\Controllers\User.php(92): unlink('foto/indomaret banyuresmi.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('3')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:10:56 --> unlink(foto/indomaret banyuresmi.jpg): No such file or directory
+in APPPATH\Controllers\User.php on line 92.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/indomaret banyuresmi.jpg): No such file or directory', 'APPPATH\\Controllers\\User.php', 92)
+ 2 APPPATH\Controllers\User.php(92): unlink('foto/indomaret banyuresmi.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('3')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:10:56 --> unlink(foto/indomaret banyuresmi.jpg): No such file or directory
+in APPPATH\Controllers\User.php on line 92.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/indomaret banyuresmi.jpg): No such file or directory', 'APPPATH\\Controllers\\User.php', 92)
+ 2 APPPATH\Controllers\User.php(92): unlink('foto/indomaret banyuresmi.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('3')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:10:56 --> unlink(foto/indomaret banyuresmi.jpg): No such file or directory
+in APPPATH\Controllers\User.php on line 92.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/indomaret banyuresmi.jpg): No such file or directory', 'APPPATH\\Controllers\\User.php', 92)
+ 2 APPPATH\Controllers\User.php(92): unlink('foto/indomaret banyuresmi.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('3')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:10:56 --> unlink(foto/indomaret banyuresmi.jpg): No such file or directory
+in APPPATH\Controllers\User.php on line 92.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/indomaret banyuresmi.jpg): No such file or directory', 'APPPATH\\Controllers\\User.php', 92)
+ 2 APPPATH\Controllers\User.php(92): unlink('foto/indomaret banyuresmi.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('3')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:12:43 --> Undefined array key "id_user"
+in APPPATH\Models\ModelUser.php on line 33.
+ 1 APPPATH\Models\ModelUser.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_user"', 'APPPATH\\Models\\ModelUser.php', 33)
+ 2 APPPATH\Controllers\User.php(97): App\Models\ModelUser->DeleteData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('1')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:12:54 --> unlink(foto/saya.jpg): No such file or directory
+in APPPATH\Controllers\User.php on line 92.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/saya.jpg): No such file or directory', 'APPPATH\\Controllers\\User.php', 92)
+ 2 APPPATH\Controllers\User.php(92): unlink('foto/saya.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('1')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:12:55 --> unlink(foto/saya.jpg): No such file or directory
+in APPPATH\Controllers\User.php on line 92.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/saya.jpg): No such file or directory', 'APPPATH\\Controllers\\User.php', 92)
+ 2 APPPATH\Controllers\User.php(92): unlink('foto/saya.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('1')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:12:55 --> unlink(foto/saya.jpg): No such file or directory
+in APPPATH\Controllers\User.php on line 92.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/saya.jpg): No such file or directory', 'APPPATH\\Controllers\\User.php', 92)
+ 2 APPPATH\Controllers\User.php(92): unlink('foto/saya.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('1')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:12:55 --> unlink(foto/saya.jpg): No such file or directory
+in APPPATH\Controllers\User.php on line 92.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/saya.jpg): No such file or directory', 'APPPATH\\Controllers\\User.php', 92)
+ 2 APPPATH\Controllers\User.php(92): unlink('foto/saya.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('1')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:12:55 --> unlink(foto/saya.jpg): No such file or directory
+in APPPATH\Controllers\User.php on line 92.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/saya.jpg): No such file or directory', 'APPPATH\\Controllers\\User.php', 92)
+ 2 APPPATH\Controllers\User.php(92): unlink('foto/saya.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('1')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:12:55 --> unlink(foto/saya.jpg): No such file or directory
+in APPPATH\Controllers\User.php on line 92.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/saya.jpg): No such file or directory', 'APPPATH\\Controllers\\User.php', 92)
+ 2 APPPATH\Controllers\User.php(92): unlink('foto/saya.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('1')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:13:00 --> unlink(foto/saya.jpg): No such file or directory
+in APPPATH\Controllers\User.php on line 92.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/saya.jpg): No such file or directory', 'APPPATH\\Controllers\\User.php', 92)
+ 2 APPPATH\Controllers\User.php(92): unlink('foto/saya.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('1')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:13:33 --> unlink(foto/indomaret banyuresmi.jpg): No such file or directory
+in APPPATH\Controllers\User.php on line 92.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/indomaret banyuresmi.jpg): No such file or directory', 'APPPATH\\Controllers\\User.php', 92)
+ 2 APPPATH\Controllers\User.php(92): unlink('foto/indomaret banyuresmi.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('3')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:13:36 --> unlink(foto/indomaret banyuresmi.jpg): No such file or directory
+in APPPATH\Controllers\User.php on line 92.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/indomaret banyuresmi.jpg): No such file or directory', 'APPPATH\\Controllers\\User.php', 92)
+ 2 APPPATH\Controllers\User.php(92): unlink('foto/indomaret banyuresmi.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('3')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:13:37 --> unlink(foto/indomaret banyuresmi.jpg): No such file or directory
+in APPPATH\Controllers\User.php on line 92.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/indomaret banyuresmi.jpg): No such file or directory', 'APPPATH\\Controllers\\User.php', 92)
+ 2 APPPATH\Controllers\User.php(92): unlink('foto/indomaret banyuresmi.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('3')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:13:37 --> unlink(foto/indomaret banyuresmi.jpg): No such file or directory
+in APPPATH\Controllers\User.php on line 92.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/indomaret banyuresmi.jpg): No such file or directory', 'APPPATH\\Controllers\\User.php', 92)
+ 2 APPPATH\Controllers\User.php(92): unlink('foto/indomaret banyuresmi.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('3')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:31:01 --> Call to undefined function base_uel()
+in APPPATH\Views\user\v_edit.php on line 41.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('user/v_edit', [], true)
+ 4 APPPATH\Views\v_template_back_end.php(208): view('user/v_edit')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 8 APPPATH\Controllers\User.php(97): view('v_template_back_end', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Edit('3')
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:31:10 --> Call to undefined function base_uel()
+in APPPATH\Views\user\v_edit.php on line 41.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('user/v_edit', [], true)
+ 4 APPPATH\Views\v_template_back_end.php(208): view('user/v_edit')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 8 APPPATH\Controllers\User.php(97): view('v_template_back_end', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Edit('1')
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:40:22 --> The original file is not a valid file.
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 137.
+ 1 SYSTEMPATH\HTTP\Files\UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH\Controllers\User.php(153): CodeIgniter\HTTP\Files\UploadedFile->move('FCPATH\\foto', 'saya.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->UpdateData('1')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:42:14 --> The original file is not a valid file.
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 137.
+ 1 SYSTEMPATH\HTTP\Files\UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH\Controllers\User.php(153): CodeIgniter\HTTP\Files\UploadedFile->move('FCPATH\\foto', 'saya.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->UpdateData('1')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 00:53:03 --> unlink(foto/indomaret banyuresmi.jpg): No such file or directory
+in APPPATH\Controllers\User.php on line 165.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/indomaret banyuresmi.jpg): No such file or directory', 'APPPATH\\Controllers\\User.php', 165)
+ 2 APPPATH\Controllers\User.php(165): unlink('foto/indomaret banyuresmi.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Delete('3')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 01:28:23 --> Undefined variable $user
+in APPPATH\Views\user\v_input.php on line 82.
+ 1 APPPATH\Views\user\v_input.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'APPPATH\\Views\\user\\v_input.php', 82)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\user\\v_input.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('user/v_input', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(208): view('user/v_input')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\User.php(32): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->Input()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 06:30:58 --> sha1(): Passing null to parameter #1 ($string) of type string is deprecated
+in APPPATH\Controllers\User.php on line 182.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'sha1(): Passing null to parameter #1 ($string) of type string is deprecated', 'APPPATH\\Controllers\\User.php', 182)
+ 2 APPPATH\Controllers\User.php(182): sha1(null)
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->login()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-03 06:35:07 --> sha1(): Passing null to parameter #1 ($string) of type string is deprecated
+in APPPATH\Models\ModelUser.php on line 40.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'sha1(): Passing null to parameter #1 ($string) of type string is deprecated', 'APPPATH\\Models\\ModelUser.php', 40)
+ 2 APPPATH\Models\ModelUser.php(40): sha1(null)
+ 3 APPPATH\Controllers\User.php(182): App\Models\ModelUser->checkLogin(null, null)
+ 4 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->login()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,510 @@
+CRITICAL - 2024-02-29 07:02:15 --> Undefined array key "id_wilayah"
+in APPPATH\Views\v_toko.php on line 58.
+ 1 APPPATH\Views\v_toko.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_wilayah"', 'APPPATH\\Views\\v_toko.php', 58)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_toko.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_toko', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(203): view('v_toko')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Toko.php(22): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->index()
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 07:39:47 --> Undefined property: App\Controllers\Toko::$ModelWilayah
+in APPPATH\Controllers\Toko.php on line 76.
+ 1 APPPATH\Controllers\Toko.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Toko::$ModelWilayah', 'APPPATH\\Controllers\\Toko.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('2')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 07:41:46 --> Undefined property: App\Controllers\Toko::$ModelWilayah
+in APPPATH\Controllers\Toko.php on line 76.
+ 1 APPPATH\Controllers\Toko.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Toko::$ModelWilayah', 'APPPATH\\Controllers\\Toko.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('2')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 07:49:28 --> Undefined property: App\Controllers\Toko::$ModelWilayah
+in APPPATH\Controllers\Toko.php on line 76.
+ 1 APPPATH\Controllers\Toko.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Toko::$ModelWilayah', 'APPPATH\\Controllers\\Toko.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('2')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 07:55:26 --> Undefined variable $id_merek
+in APPPATH\Controllers\Toko.php on line 76.
+ 1 APPPATH\Controllers\Toko.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_merek', 'APPPATH\\Controllers\\Toko.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('2')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 07:55:33 --> Undefined array key "id_wilayah"
+in APPPATH\Models\ModelToko.php on line 31.
+ 1 APPPATH\Models\ModelToko.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_wilayah"', 'APPPATH\\Models\\ModelToko.php', 31)
+ 2 APPPATH\Controllers\Toko.php(122): App\Models\ModelToko->DeleteData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Delete('2')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 07:59:31 --> Undefined array key "id_wilayah"
+in APPPATH\Models\ModelToko.php on line 31.
+ 1 APPPATH\Models\ModelToko.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_wilayah"', 'APPPATH\\Models\\ModelToko.php', 31)
+ 2 APPPATH\Controllers\Toko.php(122): App\Models\ModelToko->DeleteData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Delete('2')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-29 08:01:54 --> mysqli_sql_exception: Unknown column 'id_wilayah' in 'where clause' in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\webgis\app\Models\ModelToko.php(20): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\webgis\app\Controllers\Toko.php(76): App\Models\ModelToko->DetailData('2')
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\Toko->Edit('2')
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+#8 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-02-29 08:01:54 --> Call to a member function getRowArray() on bool
+in APPPATH\Models\ModelToko.php on line 20.
+ 1 APPPATH\Controllers\Toko.php(76): App\Models\ModelToko->DetailData('2')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('2')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-29 08:01:57 --> mysqli_sql_exception: Unknown column 'id_wilayah' in 'where clause' in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\webgis\app\Models\ModelToko.php(20): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\webgis\app\Controllers\Toko.php(76): App\Models\ModelToko->DetailData('2')
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\Toko->Edit('2')
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+#8 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-02-29 08:01:57 --> Call to a member function getRowArray() on bool
+in APPPATH\Models\ModelToko.php on line 20.
+ 1 APPPATH\Controllers\Toko.php(76): App\Models\ModelToko->DetailData('2')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('2')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 08:06:53 --> Undefined array key "id_wilayah"
+in APPPATH\Models\ModelToko.php on line 31.
+ 1 APPPATH\Models\ModelToko.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_wilayah"', 'APPPATH\\Models\\ModelToko.php', 31)
+ 2 APPPATH\Controllers\Toko.php(130): App\Models\ModelToko->DeleteData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Delete('3')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 08:10:48 --> Cannot redeclare App\Controllers\Toko::UpdateData()
+in APPPATH\Controllers\Toko.php on line 128.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-02-29 08:10:49 --> Cannot redeclare App\Controllers\Toko::UpdateData()
+in APPPATH\Controllers\Toko.php on line 128.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2024-02-29 08:21:52 --> mysqli_sql_exception: Unknown column 'id_wilayah' in 'where clause' in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\webgis\app\Models\ModelToko.php(20): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\webgis\app\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('7')
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\Toko->Edit('7')
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+#8 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-02-29 08:21:52 --> Call to a member function getRowArray() on bool
+in APPPATH\Models\ModelToko.php on line 20.
+ 1 APPPATH\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('7')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('7')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 08:30:06 --> Undefined array key "id_wilayah"
+in APPPATH\Models\ModelToko.php on line 31.
+ 1 APPPATH\Models\ModelToko.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_wilayah"', 'APPPATH\\Models\\ModelToko.php', 31)
+ 2 APPPATH\Controllers\Toko.php(130): App\Models\ModelToko->DeleteData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Delete('9')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 08:30:29 --> Undefined array key "id_wilayah"
+in APPPATH\Models\ModelToko.php on line 31.
+ 1 APPPATH\Models\ModelToko.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_wilayah"', 'APPPATH\\Models\\ModelToko.php', 31)
+ 2 APPPATH\Controllers\Toko.php(130): App\Models\ModelToko->DeleteData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Delete('7')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-29 08:33:40 --> mysqli_sql_exception: Unknown column 'id_wilayah' in 'where clause' in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\webgis\app\Models\ModelToko.php(20): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\webgis\app\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('8')
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\Toko->Edit('8')
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+#8 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-02-29 08:33:40 --> Call to a member function getRowArray() on bool
+in APPPATH\Models\ModelToko.php on line 20.
+ 1 APPPATH\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('8')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('8')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-29 08:33:43 --> mysqli_sql_exception: Unknown column 'id_wilayah' in 'where clause' in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\webgis\app\Models\ModelToko.php(20): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\webgis\app\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('9')
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\Toko->Edit('9')
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+#8 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-02-29 08:33:43 --> Call to a member function getRowArray() on bool
+in APPPATH\Models\ModelToko.php on line 20.
+ 1 APPPATH\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('9')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('9')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-29 08:34:19 --> mysqli_sql_exception: Unknown column 'id_wilayah' in 'where clause' in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\webgis\app\Models\ModelToko.php(20): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\webgis\app\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('8')
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\Toko->Edit('8')
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+#8 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-02-29 08:34:19 --> Call to a member function getRowArray() on bool
+in APPPATH\Models\ModelToko.php on line 20.
+ 1 APPPATH\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('8')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('8')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-29 08:34:23 --> mysqli_sql_exception: Unknown column 'id_wilayah' in 'where clause' in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\webgis\app\Models\ModelToko.php(20): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\webgis\app\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('9')
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\Toko->Edit('9')
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+#8 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-02-29 08:34:23 --> Call to a member function getRowArray() on bool
+in APPPATH\Models\ModelToko.php on line 20.
+ 1 APPPATH\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('9')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('9')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 08:36:29 --> Undefined array key "id_wilayah"
+in APPPATH\Models\ModelToko.php on line 31.
+ 1 APPPATH\Models\ModelToko.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_wilayah"', 'APPPATH\\Models\\ModelToko.php', 31)
+ 2 APPPATH\Controllers\Toko.php(130): App\Models\ModelToko->DeleteData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Delete('9')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-29 08:42:04 --> mysqli_sql_exception: Unknown column 'id_wilayah' in 'where clause' in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\webgis\app\Models\ModelToko.php(20): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\webgis\app\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('7')
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\Toko->Edit('7')
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+#8 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-02-29 08:42:04 --> Call to a member function getRowArray() on bool
+in APPPATH\Models\ModelToko.php on line 20.
+ 1 APPPATH\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('7')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('7')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-29 08:42:08 --> mysqli_sql_exception: Unknown column 'id_wilayah' in 'where clause' in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\webgis\app\Models\ModelToko.php(20): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\webgis\app\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('8')
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\Toko->Edit('8')
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+#8 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-02-29 08:42:08 --> Call to a member function getRowArray() on bool
+in APPPATH\Models\ModelToko.php on line 20.
+ 1 APPPATH\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('8')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('8')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 08:42:23 --> Creation of dynamic property App\Controllers\Toko::$ModelToko is deprecated
+in APPPATH\Controllers\Toko.php on line 11.
+ 1 APPPATH\Controllers\Toko.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\Toko::$ModelToko is deprecated', 'APPPATH\\Controllers\\Toko.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(864): App\Controllers\Toko->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-29 08:48:50 --> mysqli_sql_exception: Unknown column 'id_wilayah' in 'where clause' in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\webgis\app\Models\ModelToko.php(20): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\webgis\app\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('7')
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\Toko->Edit('7')
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+#8 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-02-29 08:48:50 --> Call to a member function getRowArray() on bool
+in APPPATH\Models\ModelToko.php on line 20.
+ 1 APPPATH\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('7')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('7')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 08:48:57 --> Undefined array key "id_wilayah"
+in APPPATH\Models\ModelToko.php on line 31.
+ 1 APPPATH\Models\ModelToko.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_wilayah"', 'APPPATH\\Models\\ModelToko.php', 31)
+ 2 APPPATH\Controllers\Toko.php(130): App\Models\ModelToko->DeleteData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Delete('7')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-29 08:50:50 --> mysqli_sql_exception: Unknown column 'id_wilayah' in 'where clause' in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\webgis\app\Models\ModelToko.php(20): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\webgis\app\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('7')
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\Toko->Edit('7')
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+#8 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-02-29 08:50:50 --> Call to a member function getRowArray() on bool
+in APPPATH\Models\ModelToko.php on line 20.
+ 1 APPPATH\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('7')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('7')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-29 08:50:53 --> mysqli_sql_exception: Unknown column 'id_wilayah' in 'where clause' in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\webgis\app\Models\ModelToko.php(20): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\webgis\app\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('8')
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\Toko->Edit('8')
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+#8 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-02-29 08:50:53 --> Call to a member function getRowArray() on bool
+in APPPATH\Models\ModelToko.php on line 20.
+ 1 APPPATH\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('8')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('8')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-29 08:50:57 --> mysqli_sql_exception: Unknown column 'id_wilayah' in 'where clause' in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\webgis\app\Models\ModelToko.php(20): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\webgis\app\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('9')
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\Toko->Edit('9')
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+#8 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-02-29 08:50:57 --> Call to a member function getRowArray() on bool
+in APPPATH\Models\ModelToko.php on line 20.
+ 1 APPPATH\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('9')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('9')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-29 08:53:59 --> mysqli_sql_exception: Unknown column 'id_wilayah' in 'where clause' in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\webgis\app\Models\ModelToko.php(20): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\webgis\app\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('9')
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\Toko->Edit('9')
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+#8 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-02-29 08:53:59 --> Call to a member function getRowArray() on bool
+in APPPATH\Models\ModelToko.php on line 20.
+ 1 APPPATH\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('9')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('9')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-29 08:54:03 --> mysqli_sql_exception: Unknown column 'id_wilayah' in 'where clause' in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\webgis\app\Models\ModelToko.php(20): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\webgis\app\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('7')
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\Toko->Edit('7')
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+#8 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-02-29 08:54:03 --> Call to a member function getRowArray() on bool
+in APPPATH\Models\ModelToko.php on line 20.
+ 1 APPPATH\Controllers\Toko.php(84): App\Models\ModelToko->DetailData('7')
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('7')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 08:54:07 --> Undefined array key "id_wilayah"
+in APPPATH\Models\ModelToko.php on line 31.
+ 1 APPPATH\Models\ModelToko.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_wilayah"', 'APPPATH\\Models\\ModelToko.php', 31)
+ 2 APPPATH\Controllers\Toko.php(142): App\Models\ModelToko->DeleteData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Delete('8')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 09:00:43 --> Undefined array key "id_wilayah"
+in APPPATH\Models\ModelToko.php on line 31.
+ 1 APPPATH\Models\ModelToko.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_wilayah"', 'APPPATH\\Models\\ModelToko.php', 31)
+ 2 APPPATH\Controllers\Toko.php(142): App\Models\ModelToko->DeleteData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Delete('9')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 09:10:38 --> Undefined array key "gambar"
+in APPPATH\Views\toko\v_edit.php on line 29.
+ 1 APPPATH\Views\toko\v_edit.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "gambar"', 'APPPATH\\Views\\toko\\v_edit.php', 29)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\toko\\v_edit.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('toko/v_edit', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(203): view('toko/v_edit')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Toko.php(87): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('8')
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 09:10:40 --> Undefined array key "gambar"
+in APPPATH\Views\toko\v_edit.php on line 29.
+ 1 APPPATH\Views\toko\v_edit.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "gambar"', 'APPPATH\\Views\\toko\\v_edit.php', 29)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\toko\\v_edit.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('toko/v_edit', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(203): view('toko/v_edit')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Toko.php(87): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('8')
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 09:10:44 --> Undefined array key "gambar"
+in APPPATH\Views\toko\v_edit.php on line 29.
+ 1 APPPATH\Views\toko\v_edit.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "gambar"', 'APPPATH\\Views\\toko\\v_edit.php', 29)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\toko\\v_edit.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('toko/v_edit', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(203): view('toko/v_edit')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Toko.php(87): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->Edit('7')
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 09:35:16 --> CodeIgniter\HTTP\RedirectResponse::with(): Argument #1 ($key) must be of type string, array given, called in C:\xampp\htdocs\webgis\app\Controllers\Toko.php on line 135
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 134.
+ 1 APPPATH\Controllers\Toko.php(135): CodeIgniter\HTTP\RedirectResponse->with([...])
+ 2 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Toko->UpdateData('7')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Toko))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 09:42:48 --> Undefined variable $toko
+in APPPATH\Views\wilayah\v_edit.php on line 15.
+ 1 APPPATH\Views\wilayah\v_edit.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $toko', 'APPPATH\\Views\\wilayah\\v_edit.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\wilayah\\v_edit.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('wilayah/v_edit', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(203): view('wilayah/v_edit')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Wilayah.php(116): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Wilayah->Edit('12')
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wilayah))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 09:42:53 --> Undefined variable $toko
+in APPPATH\Views\wilayah\v_edit.php on line 15.
+ 1 APPPATH\Views\wilayah\v_edit.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $toko', 'APPPATH\\Views\\wilayah\\v_edit.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\wilayah\\v_edit.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('wilayah/v_edit', [], true)
+ 5 APPPATH\Views\v_template_back_end.php(203): view('wilayah/v_edit')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template_back_end.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('v_template_back_end', [], true)
+ 9 APPPATH\Controllers\Wilayah.php(116): view('v_template_back_end', [...])
+10 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Wilayah->Edit('12')
+11 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wilayah))
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,122 @@
+ERROR - 2024-03-05 04:57:17 --> mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\webgis\app\Models\ModelInfoToko.php(15): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\webgis\app\Controllers\InfoToko.php(31): App\Models\ModelInfoToko->AllData()
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\InfoToko->index()
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InfoToko))
+#8 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-03-05 04:57:17 --> MySQL server has gone away
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *
+FROM `tbl_infotoko`
+JOIN `tbl_toko` ON `tbl_toko`.`id_merek` = `tbl_infotoko`.`id_merek`
+JOIN `tbl_provinsi` ON `tbl_provinsi`.`id_provinsi` = `tbl_infotoko`.`id_provinsi`
+JOIN `tbl_kabupaten` ON `tbl_kabupaten`.`id_kabupaten` = `tbl_infotoko`.`id_kabupaten`
+JOIN `tbl_kecamatan` ON `tbl_kecamatan`.`id_kecamatan` = `tbl_infotoko`.`id_kecamatan`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_infotoko`
+JOIN `tbl_toko` ON `tbl_toko`.`id_merek` = `tbl_infotoko`.`id_merek`
+JOIN `tbl_provinsi` ON `tbl_provinsi`.`id_provinsi` = `tbl_infotoko`.`id_provinsi`
+JOIN `tbl_kabupaten` ON `tbl_kabupaten`.`id_kabupaten` = `tbl_infotoko`.`id_kabupaten`
+JOIN `tbl_kecamatan` ON `tbl_kecamatan`.`id_kecamatan` = `tbl_infotoko`.`id_kecamatan`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_infotoko`
+JOIN `tbl_toko` ON `tbl_toko`.`id_merek` = `tbl_infotoko`.`id_merek`
+JOIN `tbl_provinsi` ON `tbl_provinsi`.`id_provinsi` = `tbl_infotoko`.`id_provinsi`
+JOIN `tbl_kabupaten` ON `tbl_kabupaten`.`id_kabupaten` = `tbl_infotoko`.`id_kabupaten`
+JOIN `tbl_kecamatan` ON `tbl_kecamatan`.`id_kecamatan` = `tbl_infotoko`.`id_kecamatan`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_infotoko`
+JOIN `tbl_toko` ON `tbl_toko`.`id_merek` = `tbl_infotoko`.`id_merek`
+JOIN `tbl_provinsi` ON `tbl_provinsi`.`id_provinsi` = `tbl_infotoko`.`id_provinsi`
+JOIN `tbl_kabupaten` ON `tbl_kabupaten`.`id_kabupaten` = `tbl_infotoko`.`id_kabupaten`
+JOIN `tbl_kecamatan` ON `tbl_kecamatan`.`id_kecamatan` = `tbl_infotoko`.`id_kecamatan`', [], false)
+ 5 APPPATH\Models\ModelInfoToko.php(15): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\InfoToko.php(31): App\Models\ModelInfoToko->AllData()
+ 7 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\InfoToko->index()
+ 8 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InfoToko))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-03-05 04:57:21 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:170
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php(170): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'db_minimarket', 3306, '', 0)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\webgis\app\Models\ModelUser.php(12): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\webgis\app\Controllers\User.php(20): App\Models\ModelUser->AllData()
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\User->index()
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#8 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\webgis\app\Models\ModelUser.php(12): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\webgis\app\Controllers\User.php(20): App\Models\ModelUser->AllData()
+#5 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\User->index()
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-05 04:57:21 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_user`', [], false)
+ 3 APPPATH\Models\ModelUser.php(12): CodeIgniter\Database\BaseBuilder->get()
+ 4 APPPATH\Controllers\User.php(20): App\Models\ModelUser->AllData()
+ 5 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\User->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-03-05 04:57:25 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:170
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php(170): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'db_minimarket', 3306, '', 0)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\webgis\app\Models\ModelSetting.php(10): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\webgis\app\Controllers\Admin.php(30): App\Models\ModelSetting->DataWeb()
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\webgis\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\webgis\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\webgis\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\webgis\app\Models\ModelSetting.php(10): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\webgis\app\Controllers\Admin.php(30): App\Models\ModelSetting->DataWeb()
+#5 C:\xampp\htdocs\webgis\system\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+#6 C:\xampp\htdocs\webgis\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\webgis\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\webgis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-05 04:57:25 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_setting`
+WHERE `id` = :id:', [...], false)
+ 3 APPPATH\Models\ModelSetting.php(10): CodeIgniter\Database\BaseBuilder->get()
+ 4 APPPATH\Controllers\Admin.php(30): App\Models\ModelSetting->DataWeb()
+ 5 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Admin->Setting()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
